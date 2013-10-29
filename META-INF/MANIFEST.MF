@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: 96a0xCKC5EvcPATBbXgeOO4JFrA=
+
+Name: assets/www/jquery.mobile/jquery.mobile-1.1.0.css
+SHA1-Digest: BGWybpE/K+ZRPZnaCmzs88277LY=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: 96a0xCKC5EvcPATBbXgeOO4JFrA=
+
+Name: assets/www/jquery.mobile/images/icons-18-black.png
+SHA1-Digest: 2zOURmgG7TYicOGnxfSucQo6Lxg=
+
+Name: assets/www/jquery.mobile/jquery-1.9.1.js
+SHA1-Digest: sIz1EoqGrqgcximBZ53RYSytl6E=
+
+Name: assets/www/jquery.mobile/jquery.mobile-1.1.0.js
+SHA1-Digest: VHpanyCp5lS6t4EsXSbYUaenBp8=
+
+Name: assets/www/jquery.mobile/images/ajax-loader.gif
+SHA1-Digest: r7Wo1RXseyxOXYv8y0kPtbYDEcM=
+
+Name: assets/www/jquery.mobile/jquery-1.7.2.min
+SHA1-Digest: /f1EHmaDG/uICejLacLDzSa118I=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: abqH4p13a9udWDiqgoSAlGmc6uo=
+
+Name: assets/www/jquery.mobile/jquery.mobile-1.1.0.min.js
+SHA1-Digest: uCoLwheGMCuDGAogCLrRQsMBQDw=
+
+Name: assets/www/jquery.mobile/images/icons-18-white.png
+SHA1-Digest: Sg/1e3EgtouxOiw7H+43z5uv5Xo=
+
+Name: assets/www/jquery.mobile/images/icons-36-black.png
+SHA1-Digest: DGqbtw+P5PhIuHjyBMRH028+Ewk=
+
+Name: resources.arsc
+SHA1-Digest: 1gb8q0rDN3FQOz7NpsP1nlYZR+8=
+
+Name: classes.dex
+SHA1-Digest: D3i7YZaXOhcT6+vCPfqZ2zFcklo=
+
+Name: assets/www/jquery.mobile/images/icons-36-white.png
+SHA1-Digest: vIWVJEKtjCzYnYP40K7owpeZbWA=
+
+Name: assets/www/cordova-1.9.0.js
+SHA1-Digest: wZRdpZdD1/9lD6A3Y8SZ98dDi0Y=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: 96a0xCKC5EvcPATBbXgeOO4JFrA=
+
+Name: res/layout/main.xml
+SHA1-Digest: NVo2B3gaRtIYoVnDyneZA+DL9Dw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 2J0jiOZtJX6+acrQGHfJOv24ebc=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 96a0xCKC5EvcPATBbXgeOO4JFrA=
+
+Name: assets/www/jquery.mobile/images/ajax-loader.png
+SHA1-Digest: NQ0i8lCHscwfrHzUBOM75uVDUjg=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: NyNvCTt/Zim3ah+Z71O9BQQk2/s=
+
+Name: assets/www/jquery.mobile/jquery.mobile-1.1.0.min.css
+SHA1-Digest: u9lywPzFZKO8MyVwfNQ2/dDkwo0=
+
+Name: assets/www/index.html
+SHA1-Digest: IZoDwxMMMG+TbDluvKbQZkKJvuA=
+
